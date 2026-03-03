@@ -2,16 +2,9 @@
 
 &nbsp;
 
-# PHP: The Fundamentals (1-11)
+# PHP: JavaScript, The Basics (1-7)
 
-Prezentowane zadania są przygotowane na podstawie rozdziału ["The fundamentals" (1-11)](https://laracasts.com/series/php-for-beginners-2023-edition/episodes/1) dla kursu "[PHP for Beginners](https://laracasts.com/series/php-for-beginners-2023-edition)". Użyj [linku polecającego](https://laracasts.com/referral/bogolubow), aby się zarejestrować i docenić moją pracę.
-
-Aby rozwiązać zadania niezbędna jest wiedza z zakresu:
-- instalacji środowiska PHP
-- podstawowej składni dla języka PHP
-- tablic, w tym również tablic asocjacyjnych
-- posługiwanie się pętlami oraz instrukcjami warunkowymi
-- wczytywanie plików przy pomocy [require](https://www.php.net/manual/en/function.require.php)
+Prezentowane zadania są przygotowane na podstawie rozdziału ["The Basics" (1-7)](https://laracasts.com/series/javascript-essentials-for-php-developers/episodes/1) dla kursu "[JavaScript Essentials for PHP Developers](https://laracasts.com/series/javascript-essentials-for-php-developers)". Użyj [linku polecającego](https://laracasts.com/referral/bogolubow), aby się zarejestrować i docenić moją pracę.
 
 
 &nbsp;
